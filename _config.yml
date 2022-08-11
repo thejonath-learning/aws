@@ -1,2 +1,4 @@
-# theme: jekyll-theme-leap-day
 remote_theme: just-the-docs/just-the-docs
+title: "AWS - Notes"
+color_scheme: "dark"
+search_enabled: true
